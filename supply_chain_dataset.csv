@@ -1,0 +1,121 @@
+Date,Month,Quarter,Year,Product ID,Product Name,Product Category,Supplier Name,Warehouse Location,Region,Opening Stock,Incoming Stock,Units Sold,Closing Stock,Reorder Level,Reorder Status,Lead Time (Days),Order Quantity,Delivery Status,Delivery Time (Days),Inventory Holding Cost,Stockout Status,Demand Forecast,Actual Demand,Forecast Accuracy %,Inventory Turnover Ratio
+2024-01-01,Jan,Q1,2024,P103,Biscuit,Electronics,Supplier Z,Delhi,West,302,398,370,330,306,No,7,120,On Time,6,814.43,No,530,370,69.81,1.17
+2024-01-02,Jan,Q1,2024,P105,Mobile,Electronics,Supplier X,Bangalore,South,543,343,485,401,391,No,6,376,On Time,4,1168.0,No,221,485,-19.46,1.03
+2024-01-03,Jan,Q1,2024,P101,T-Shirt,FMCG,Supplier Z,Bangalore,West,710,219,575,354,387,Yes,9,289,On Time,9,1114.17,No,443,575,70.2,1.08
+2024-01-04,Jan,Q1,2024,P105,Shampoo,Electronics,Supplier A,Bangalore,South,366,323,487,202,288,Yes,6,113,On Time,5,637.56,No,545,487,89.36,1.71
+2024-01-05,Jan,Q1,2024,P102,Headphones,Electronics,Supplier Y,Hyderabad,North,627,313,530,410,234,No,8,180,Delayed,9,1044.15,No,587,530,90.29,1.02
+2024-01-06,Jan,Q1,2024,P106,Mobile,Electronics,Supplier B,Hyderabad,West,676,240,501,415,417,Yes,6,261,On Time,5,1944.06,No,469,501,93.18,0.92
+2024-01-07,Jan,Q1,2024,P105,Laptop,Electronics,Supplier X,Hyderabad,West,537,102,379,260,416,Yes,6,287,Delayed,7,735.28,No,356,379,93.54,0.95
+2024-01-08,Jan,Q1,2024,P102,Laptop,Electronics,Supplier X,Hyderabad,North,671,112,238,545,280,No,5,388,On Time,5,1211.06,No,430,238,55.35,0.39
+2024-01-09,Jan,Q1,2024,P101,T-Shirt,FMCG,Supplier Z,Mumbai,West,232,97,506,0,261,Yes,7,198,Delayed,8,0.0,Yes,234,506,-16.24,4.36
+2024-01-10,Jan,Q1,2024,P101,Mobile,FMCG,Supplier A,Delhi,West,417,304,497,224,482,Yes,3,306,On Time,2,465.08,No,378,497,68.52,1.55
+2024-01-11,Jan,Q1,2024,P103,T-Shirt,Electronics,Supplier A,Delhi,North,606,280,336,550,342,No,5,128,Delayed,6,2655.71,No,526,336,63.88,0.58
+2024-01-12,Jan,Q1,2024,P106,T-Shirt,FMCG,Supplier A,Mumbai,South,756,111,540,327,333,Yes,6,127,Delayed,7,837.03,No,485,540,88.66,1.0
+2024-01-13,Jan,Q1,2024,P106,T-Shirt,Electronics,Supplier B,Mumbai,South,389,274,484,179,482,Yes,8,220,Delayed,9,547.33,No,458,484,94.32,1.7
+2024-01-14,Jan,Q1,2024,P104,Headphones,FMCG,Supplier Z,Mumbai,West,433,221,251,403,359,No,3,279,On Time,1,884.45,No,251,251,100.0,0.6
+2024-01-15,Jan,Q1,2024,P103,Headphones,FMCG,Supplier B,Hyderabad,North,280,236,212,304,201,No,4,319,Delayed,6,922.7,No,584,212,36.3,0.73
+2024-01-16,Jan,Q1,2024,P106,T-Shirt,Electronics,Supplier X,Hyderabad,South,615,296,423,488,402,No,5,354,Delayed,7,1901.7,No,397,423,93.45,0.77
+2024-01-17,Jan,Q1,2024,P104,Laptop,Electronics,Supplier Y,Hyderabad,West,525,398,358,565,347,No,6,445,On Time,6,2502.1,No,347,358,96.83,0.66
+2024-01-18,Jan,Q1,2024,P101,Mobile,Electronics,Supplier X,Delhi,West,672,200,514,358,497,Yes,5,362,Delayed,6,903.9,No,311,514,34.73,1.0
+2024-01-19,Jan,Q1,2024,P103,Mobile,Electronics,Supplier X,Hyderabad,South,503,303,239,567,236,No,5,108,On Time,3,1728.01,No,503,239,47.51,0.45
+2024-01-20,Jan,Q1,2024,P102,Headphones,FMCG,Supplier Y,Delhi,South,619,153,439,333,453,Yes,5,211,On Time,3,1328.84,No,548,439,80.11,0.92
+2024-01-21,Jan,Q1,2024,P104,T-Shirt,Clothing,Supplier B,Bangalore,North,360,117,388,89,476,Yes,6,483,On Time,6,353.58,No,232,388,32.76,1.73
+2024-01-22,Jan,Q1,2024,P103,Mobile,Clothing,Supplier X,Hyderabad,West,482,76,325,233,476,Yes,8,196,Delayed,9,933.58,No,516,325,62.98,0.91
+2024-01-23,Jan,Q1,2024,P105,Laptop,Electronics,Supplier B,Bangalore,South,371,269,257,383,245,No,7,105,On Time,7,1625.13,No,236,257,91.1,0.68
+2024-01-24,Jan,Q1,2024,P106,Shampoo,Clothing,Supplier Y,Hyderabad,South,315,240,352,203,360,Yes,5,227,On Time,4,745.09,No,422,352,83.41,1.36
+2024-01-25,Jan,Q1,2024,P103,Shampoo,Electronics,Supplier B,Hyderabad,North,354,322,203,473,498,Yes,8,275,Delayed,10,1366.75,No,225,203,90.22,0.49
+2024-01-26,Jan,Q1,2024,P104,Shampoo,FMCG,Supplier Z,Mumbai,North,235,222,119,338,463,Yes,8,499,Delayed,9,1575.03,No,342,119,34.8,0.42
+2024-01-27,Jan,Q1,2024,P106,T-Shirt,Electronics,Supplier B,Mumbai,West,774,239,224,789,349,No,4,157,On Time,2,1666.4,No,525,224,42.67,0.29
+2024-01-28,Jan,Q1,2024,P103,Mobile,FMCG,Supplier Y,Hyderabad,North,771,157,104,824,302,No,6,361,Delayed,8,2128.51,No,549,104,18.94,0.13
+2024-01-29,Jan,Q1,2024,P101,Mobile,FMCG,Supplier X,Delhi,North,319,368,374,313,291,No,4,445,Delayed,6,799.09,No,517,374,72.34,1.18
+2024-01-30,Jan,Q1,2024,P101,Biscuit,FMCG,Supplier B,Bangalore,South,712,288,389,611,295,No,8,217,On Time,6,2432.14,No,572,389,68.01,0.59
+2024-01-31,Jan,Q1,2024,P106,Headphones,Electronics,Supplier B,Hyderabad,North,275,203,243,235,285,Yes,3,384,Delayed,4,502.43,No,293,243,82.94,0.95
+2024-02-01,Feb,Q1,2024,P106,Biscuit,Electronics,Supplier Y,Hyderabad,South,673,390,138,925,299,No,3,353,Delayed,5,2955.85,No,209,138,66.03,0.17
+2024-02-02,Feb,Q1,2024,P103,Mobile,Electronics,Supplier Y,Bangalore,West,641,145,356,430,203,No,9,357,On Time,7,1978.69,No,359,356,99.16,0.66
+2024-02-03,Feb,Q1,2024,P105,Mobile,Electronics,Supplier Y,Mumbai,South,626,150,367,409,264,No,3,267,On Time,2,1071.6,No,484,367,75.83,0.71
+2024-02-04,Feb,Q1,2024,P104,Shampoo,FMCG,Supplier Y,Mumbai,South,234,264,436,62,289,Yes,7,189,On Time,6,172.49,No,590,436,73.9,2.95
+2024-02-05,Feb,Q1,2024,P103,Laptop,Clothing,Supplier A,Delhi,West,612,266,376,502,448,No,6,493,Delayed,8,2134.43,No,391,376,96.16,0.68
+2024-02-06,Feb,Q1,2024,P101,T-Shirt,Electronics,Supplier X,Mumbai,North,295,201,250,246,389,Yes,7,367,On Time,5,993.73,No,478,250,52.3,0.92
+2024-02-07,Feb,Q1,2024,P103,Mobile,Electronics,Supplier A,Delhi,South,795,266,441,620,386,No,5,276,Delayed,6,1260.16,No,432,441,97.92,0.62
+2024-02-08,Feb,Q1,2024,P105,Mobile,FMCG,Supplier X,Bangalore,West,583,101,438,246,343,Yes,7,168,On Time,7,936.6,No,578,438,75.78,1.06
+2024-02-09,Feb,Q1,2024,P103,Shampoo,Electronics,Supplier X,Delhi,North,241,235,522,0,422,Yes,4,232,On Time,4,0.0,Yes,434,522,79.72,4.33
+2024-02-10,Feb,Q1,2024,P102,Shampoo,FMCG,Supplier B,Mumbai,North,691,302,329,664,206,No,8,240,On Time,7,2118.13,No,482,329,68.26,0.49
+2024-02-11,Feb,Q1,2024,P106,Mobile,Clothing,Supplier B,Hyderabad,North,538,185,595,128,344,Yes,9,426,On Time,7,483.29,No,491,595,78.82,1.79
+2024-02-12,Feb,Q1,2024,P104,Headphones,FMCG,Supplier A,Hyderabad,West,366,140,301,205,218,Yes,9,225,On Time,9,566.01,No,441,301,68.25,1.05
+2024-02-13,Feb,Q1,2024,P101,Headphones,FMCG,Supplier Y,Hyderabad,West,560,50,486,124,389,Yes,3,290,Delayed,4,354.28,No,511,486,95.11,1.42
+2024-02-14,Feb,Q1,2024,P103,T-Shirt,Electronics,Supplier X,Delhi,South,372,366,402,336,348,Yes,8,312,On Time,8,1598.47,No,363,402,89.26,1.14
+2024-02-15,Feb,Q1,2024,P101,T-Shirt,Electronics,Supplier Y,Hyderabad,North,432,354,113,673,342,No,9,100,Delayed,11,2753.09,No,458,113,24.67,0.2
+2024-02-16,Feb,Q1,2024,P104,Shampoo,Electronics,Supplier A,Mumbai,West,607,205,472,340,207,No,4,447,Delayed,5,1152.97,No,385,472,77.4,1.0
+2024-02-17,Feb,Q1,2024,P105,Headphones,FMCG,Supplier Z,Hyderabad,West,701,194,300,595,411,No,7,319,Delayed,9,1427.74,No,234,300,71.79,0.46
+2024-02-18,Feb,Q1,2024,P106,Laptop,FMCG,Supplier X,Bangalore,West,649,59,411,297,485,Yes,4,350,Delayed,6,740.87,No,488,411,84.22,0.87
+2024-02-19,Feb,Q1,2024,P105,Headphones,Electronics,Supplier X,Mumbai,South,481,112,316,277,482,Yes,3,197,On Time,1,898.72,No,584,316,54.11,0.83
+2024-02-20,Feb,Q1,2024,P106,Laptop,Electronics,Supplier X,Bangalore,West,636,72,584,124,252,Yes,7,301,On Time,6,388.56,No,284,584,-5.63,1.54
+2024-02-21,Feb,Q1,2024,P103,T-Shirt,FMCG,Supplier A,Mumbai,North,645,337,133,849,294,No,9,253,On Time,8,3023.22,No,317,133,41.96,0.18
+2024-02-22,Feb,Q1,2024,P103,T-Shirt,Electronics,Supplier A,Delhi,North,435,271,350,356,311,No,9,402,Delayed,11,1374.49,No,265,350,67.92,0.88
+2024-02-23,Feb,Q1,2024,P101,Headphones,Electronics,Supplier A,Delhi,South,505,147,437,215,485,Yes,9,446,On Time,9,1013.18,No,507,437,86.19,1.21
+2024-02-24,Feb,Q1,2024,P101,Mobile,Electronics,Supplier B,Delhi,North,305,100,180,225,332,Yes,7,487,On Time,6,1075.45,No,529,180,34.03,0.68
+2024-02-25,Feb,Q1,2024,P103,Headphones,Electronics,Supplier A,Hyderabad,West,252,254,225,281,434,Yes,5,339,On Time,5,625.95,No,448,225,50.22,0.84
+2024-02-26,Feb,Q1,2024,P105,Shampoo,Electronics,Supplier Y,Mumbai,North,394,244,254,384,292,No,4,160,On Time,3,1025.87,No,476,254,53.36,0.65
+2024-02-27,Feb,Q1,2024,P102,Biscuit,Clothing,Supplier X,Delhi,West,604,375,100,879,332,No,3,111,On Time,2,4116.05,No,277,100,36.1,0.13
+2024-02-28,Feb,Q1,2024,P101,Laptop,Clothing,Supplier B,Hyderabad,South,246,170,313,103,438,Yes,8,206,Delayed,10,206.8,No,491,313,63.75,1.79
+2024-02-29,Feb,Q1,2024,P103,T-Shirt,Clothing,Supplier Z,Bangalore,West,502,176,155,523,413,No,8,127,On Time,7,2218.78,No,213,155,72.77,0.3
+2024-03-01,Mar,Q1,2024,P101,Laptop,Electronics,Supplier Y,Delhi,West,473,343,326,490,214,No,3,218,Delayed,5,1247.96,No,238,326,63.03,0.68
+2024-03-02,Mar,Q1,2024,P104,Headphones,FMCG,Supplier X,Hyderabad,South,344,62,311,95,224,Yes,6,493,On Time,6,374.91,No,345,311,90.14,1.42
+2024-03-03,Mar,Q1,2024,P105,Headphones,FMCG,Supplier X,Mumbai,West,753,150,105,798,379,No,4,419,On Time,3,2180.98,No,514,105,20.43,0.14
+2024-03-04,Mar,Q1,2024,P101,T-Shirt,Clothing,Supplier B,Hyderabad,South,476,247,169,554,311,No,6,449,On Time,6,1254.07,No,549,169,30.78,0.33
+2024-03-05,Mar,Q1,2024,P101,Shampoo,Clothing,Supplier Y,Bangalore,West,205,371,567,9,419,Yes,5,103,On Time,3,31.25,No,261,567,-17.24,5.3
+2024-03-06,Mar,Q1,2024,P104,Laptop,FMCG,Supplier B,Delhi,South,499,182,425,256,317,Yes,6,374,Delayed,7,901.84,No,312,425,63.78,1.13
+2024-03-07,Mar,Q1,2024,P102,Mobile,FMCG,Supplier B,Hyderabad,North,710,382,590,502,458,No,3,489,On Time,2,1688.13,No,460,590,71.74,0.97
+2024-03-08,Mar,Q1,2024,P103,Headphones,Electronics,Supplier B,Delhi,North,795,370,418,747,300,No,3,372,On Time,1,2828.83,No,237,418,23.63,0.54
+2024-03-09,Mar,Q1,2024,P105,T-Shirt,Electronics,Supplier B,Delhi,North,533,186,517,202,275,Yes,5,134,On Time,3,853.12,No,259,517,0.39,1.41
+2024-03-10,Mar,Q1,2024,P105,Shampoo,Electronics,Supplier Y,Hyderabad,South,490,262,264,488,204,No,5,478,On Time,4,2305.12,No,288,264,91.67,0.54
+2024-03-11,Mar,Q1,2024,P102,Headphones,FMCG,Supplier Z,Bangalore,South,725,337,278,784,324,No,8,452,On Time,6,2114.16,No,424,278,65.57,0.37
+2024-03-12,Mar,Q1,2024,P103,Mobile,FMCG,Supplier X,Mumbai,West,397,183,166,414,378,No,4,114,Delayed,6,1443.32,No,430,166,38.6,0.41
+2024-03-13,Mar,Q1,2024,P101,Headphones,Electronics,Supplier B,Bangalore,South,610,338,353,595,395,No,8,421,On Time,7,2071.76,No,529,353,66.73,0.59
+2024-03-14,Mar,Q1,2024,P104,Biscuit,FMCG,Supplier Z,Bangalore,South,427,265,535,157,383,Yes,9,256,Delayed,11,543.07,No,523,535,97.71,1.83
+2024-03-15,Mar,Q1,2024,P106,Headphones,FMCG,Supplier Z,Hyderabad,North,491,331,398,424,482,Yes,7,247,On Time,7,2067.94,No,559,398,71.2,0.87
+2024-03-16,Mar,Q1,2024,P104,Biscuit,FMCG,Supplier Y,Mumbai,South,340,153,545,0,409,Yes,3,210,Delayed,4,0.0,Yes,555,545,98.2,3.21
+2024-03-17,Mar,Q1,2024,P105,Biscuit,FMCG,Supplier A,Delhi,South,577,100,128,549,495,No,3,313,On Time,3,1840.53,No,501,128,25.55,0.23
+2024-03-18,Mar,Q1,2024,P101,Shampoo,Electronics,Supplier X,Mumbai,North,200,368,537,31,254,Yes,5,498,Delayed,7,97.28,No,508,537,94.29,4.65
+2024-03-19,Mar,Q1,2024,P101,T-Shirt,Clothing,Supplier A,Bangalore,South,774,293,124,943,289,No,5,393,On Time,4,3203.47,No,546,124,22.71,0.14
+2024-03-20,Mar,Q1,2024,P103,Headphones,FMCG,Supplier A,Delhi,West,381,201,124,458,379,No,8,443,On Time,6,1413.93,No,262,124,47.33,0.3
+2024-03-21,Mar,Q1,2024,P101,Laptop,FMCG,Supplier Z,Bangalore,South,248,386,183,451,376,No,6,217,Delayed,7,1625.95,No,559,183,32.74,0.52
+2024-03-22,Mar,Q1,2024,P103,Shampoo,FMCG,Supplier A,Mumbai,North,517,81,257,341,484,Yes,3,385,On Time,3,749.22,No,277,257,92.78,0.6
+2024-03-23,Mar,Q1,2024,P102,Shampoo,Clothing,Supplier Y,Hyderabad,West,421,215,534,102,331,Yes,3,363,Delayed,5,227.1,No,330,534,38.18,2.04
+2024-03-24,Mar,Q1,2024,P103,T-Shirt,FMCG,Supplier X,Bangalore,West,286,104,575,0,487,Yes,4,490,Delayed,6,0.0,Yes,512,575,87.7,4.02
+2024-03-25,Mar,Q1,2024,P106,Headphones,Clothing,Supplier A,Hyderabad,West,778,100,196,682,291,No,9,363,On Time,8,3011.67,No,287,196,68.29,0.27
+2024-03-26,Mar,Q1,2024,P105,T-Shirt,Electronics,Supplier B,Hyderabad,North,381,272,410,243,206,No,4,362,On Time,2,637.55,No,346,410,81.5,1.31
+2024-03-27,Mar,Q1,2024,P104,Biscuit,FMCG,Supplier X,Delhi,West,713,352,296,769,210,No,4,485,On Time,4,2899.81,No,595,296,49.75,0.4
+2024-03-28,Mar,Q1,2024,P101,Shampoo,Clothing,Supplier X,Delhi,West,699,391,463,627,479,No,3,301,On Time,3,2936.65,No,327,463,58.41,0.7
+2024-03-29,Mar,Q1,2024,P102,Biscuit,FMCG,Supplier Y,Bangalore,West,751,286,380,657,400,No,8,377,On Time,8,2145.18,No,353,380,92.35,0.54
+2024-03-30,Mar,Q1,2024,P101,Biscuit,Electronics,Supplier Y,Hyderabad,South,274,375,245,404,327,No,7,141,Delayed,8,1411.69,No,233,245,94.85,0.72
+2024-03-31,Mar,Q1,2024,P102,Biscuit,Electronics,Supplier Y,Mumbai,North,541,76,412,205,486,Yes,8,318,On Time,7,779.32,No,508,412,81.1,1.1
+2024-04-01,Apr,Q2,2024,P105,T-Shirt,Clothing,Supplier A,Mumbai,South,757,113,229,641,392,No,5,280,Delayed,6,2764.61,No,228,229,99.56,0.33
+2024-04-02,Apr,Q2,2024,P104,Mobile,Clothing,Supplier Z,Hyderabad,South,426,359,197,588,254,No,9,251,Delayed,11,2029.34,No,449,197,43.88,0.39
+2024-04-03,Apr,Q2,2024,P103,Shampoo,Electronics,Supplier Z,Bangalore,North,706,250,253,703,272,No,3,395,On Time,1,2276.58,No,260,253,97.31,0.36
+2024-04-04,Apr,Q2,2024,P105,Laptop,FMCG,Supplier X,Bangalore,West,428,157,271,314,301,No,4,111,On Time,4,924.35,No,504,271,53.77,0.73
+2024-04-05,Apr,Q2,2024,P106,Laptop,FMCG,Supplier X,Hyderabad,South,211,367,179,399,415,Yes,5,363,Delayed,7,1706.57,No,573,179,31.24,0.59
+2024-04-06,Apr,Q2,2024,P102,Headphones,FMCG,Supplier X,Bangalore,North,770,75,146,699,487,No,4,115,On Time,2,1776.67,No,285,146,51.23,0.2
+2024-04-07,Apr,Q2,2024,P102,T-Shirt,FMCG,Supplier Z,Hyderabad,North,676,131,322,485,302,No,3,113,On Time,3,1785.79,No,500,322,64.4,0.55
+2024-04-08,Apr,Q2,2024,P106,Shampoo,Clothing,Supplier Y,Delhi,North,382,88,114,356,203,No,7,496,On Time,6,1267.54,No,307,114,37.13,0.31
+2024-04-09,Apr,Q2,2024,P104,Biscuit,Electronics,Supplier X,Mumbai,North,450,296,368,378,340,No,4,195,On Time,4,835.41,No,501,368,73.45,0.89
+2024-04-10,Apr,Q2,2024,P104,Biscuit,Electronics,Supplier X,Bangalore,West,444,285,284,445,471,Yes,6,338,On Time,4,1915.65,No,558,284,50.9,0.64
+2024-04-11,Apr,Q2,2024,P101,Laptop,Electronics,Supplier A,Bangalore,North,341,207,597,0,345,Yes,8,392,On Time,6,0.0,Yes,272,597,-19.49,3.5
+2024-04-12,Apr,Q2,2024,P104,T-Shirt,Electronics,Supplier B,Bangalore,North,260,247,394,113,210,Yes,8,432,On Time,7,282.62,No,251,394,43.03,2.11
+2024-04-13,Apr,Q2,2024,P106,Biscuit,FMCG,Supplier X,Mumbai,South,442,379,206,615,425,No,3,317,On Time,1,1573.98,No,458,206,44.98,0.39
+2024-04-14,Apr,Q2,2024,P103,Headphones,FMCG,Supplier B,Bangalore,West,219,290,160,349,377,Yes,4,161,On Time,2,859.13,No,359,160,44.57,0.56
+2024-04-15,Apr,Q2,2024,P101,T-Shirt,Electronics,Supplier Y,Hyderabad,North,528,117,497,148,297,Yes,5,204,On Time,5,417.19,No,228,497,-17.98,1.47
+2024-04-16,Apr,Q2,2024,P103,Biscuit,FMCG,Supplier Y,Delhi,West,720,89,124,685,460,No,5,325,Delayed,6,2135.87,No,527,124,23.53,0.18
+2024-04-17,Apr,Q2,2024,P106,Biscuit,Clothing,Supplier Y,Bangalore,North,515,225,560,180,483,Yes,7,180,On Time,6,627.38,No,423,560,67.61,1.61
+2024-04-18,Apr,Q2,2024,P101,T-Shirt,Clothing,Supplier X,Mumbai,South,239,396,560,75,436,Yes,3,361,On Time,3,345.34,No,291,560,7.56,3.57
+2024-04-19,Apr,Q2,2024,P105,T-Shirt,FMCG,Supplier Y,Mumbai,South,756,394,280,870,369,No,6,290,On Time,6,3704.59,No,206,280,64.08,0.34
+2024-04-20,Apr,Q2,2024,P105,Biscuit,Electronics,Supplier Y,Hyderabad,West,230,72,525,0,359,Yes,5,257,On Time,4,0.0,Yes,405,525,70.37,4.57
+2024-04-21,Apr,Q2,2024,P105,T-Shirt,Electronics,Supplier Z,Delhi,South,245,204,212,237,432,Yes,3,459,On Time,2,924.78,No,543,212,39.04,0.88
+2024-04-22,Apr,Q2,2024,P104,Mobile,FMCG,Supplier A,Bangalore,West,785,282,323,744,259,No,9,321,Delayed,11,1716.8,No,395,323,81.77,0.42
+2024-04-23,Apr,Q2,2024,P105,Mobile,Electronics,Supplier Z,Bangalore,West,723,242,121,844,319,No,5,309,On Time,4,4195.06,No,374,121,32.35,0.15
+2024-04-24,Apr,Q2,2024,P102,Headphones,FMCG,Supplier B,Hyderabad,West,659,56,128,587,232,No,8,466,On Time,8,1618.67,No,225,128,56.89,0.21
+2024-04-25,Apr,Q2,2024,P106,Mobile,Electronics,Supplier Z,Bangalore,South,298,88,370,16,484,Yes,7,174,Delayed,8,72.32,No,374,370,98.93,2.36
+2024-04-26,Apr,Q2,2024,P103,Laptop,FMCG,Supplier Z,Bangalore,West,581,285,539,327,291,No,7,120,Delayed,9,1280.39,No,461,539,83.08,1.19
+2024-04-27,Apr,Q2,2024,P103,Mobile,Electronics,Supplier X,Mumbai,West,769,64,261,572,362,No,3,380,Delayed,4,2109.68,No,407,261,64.13,0.39
+2024-04-28,Apr,Q2,2024,P104,Biscuit,Electronics,Supplier Y,Bangalore,North,508,57,178,387,226,No,8,149,Delayed,9,794.74,No,548,178,32.48,0.4
+2024-04-29,Apr,Q2,2024,P106,Laptop,Electronics,Supplier B,Mumbai,North,726,202,321,607,405,No,9,372,Delayed,10,1664.77,No,208,321,45.67,0.48
